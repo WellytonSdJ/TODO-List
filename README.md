@@ -1,9 +1,9 @@
-#Sobre o Projeto
+# Sobre o Projeto;
 Este projeto foi feito para testar diversos conceitos do REACTJS.
 Sua intenção principal é para fins de estudo.
 O projeto consiste em criar uma pequena lista onde possa ser adicionado e removido itens.
 
-#About the project
+# About the project;
 This project was made to test several REACTJS concepts.
 Its main intention is for study purposes.
 The project consists of creating a short list where items can be added and removed.
