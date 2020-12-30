@@ -1,3 +1,14 @@
+#Sobre o Projeto
+Este projeto foi feito para testar diversos conceitos do REACTJS.
+Sua intenção principal é para fins de estudo.
+O projeto consiste em criar uma pequena lista onde possa ser adicionado e removido itens.
+
+#About the project
+This project was made to test several REACTJS concepts.
+Its main intention is for study purposes.
+The project consists of creating a short list where items can be added and removed.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
